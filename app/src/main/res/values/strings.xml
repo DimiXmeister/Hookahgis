@@ -4,12 +4,16 @@
     <string name="Yes_Age">Да, мне есть 18 лет</string>
     <string name="No_Age">Мне нет 18-ти</string>
     <string name="Warning">Нажимая кнопку
-                            "Да, мне есть 18 лет" вы подтверждаете своё
-                            совершеннолетие</string>
+        "Да, мне есть 18 лет" вы подтверждаете своё
+        совершеннолетие
+    </string>
     <string name="Hookah">Кальяны</string>
     <string name="Tabak">Табаки</string>
     <string name="Other">Разное</string>
     <string name="Where_to">Кальянные</string>
     <string name="How_to">Гайды</string>
     <string name="About">О приложении</string>
+    <string name="ParBar">Par Bar</string>
+    <string name="Woody_woo">Woody Woo</string>
+    <string name="Dark_side">Dark Side</string>
 </resources>
